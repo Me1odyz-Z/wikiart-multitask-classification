@@ -1,0 +1,4 @@
+Model,Style Top-1,Style Top-5,Style Macro-F1,Genre Top-1,Genre Macro-F1
+ResNet-50,0.5913,0.9389,0.5601,0.6776,0.6640
+EfficientNet-B4,0.6030,0.9437,0.5888,0.6785,0.6603
+ViT-B/16,0.5760,0.9271,0.5297,0.6587,0.6503
